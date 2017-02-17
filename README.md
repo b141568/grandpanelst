@@ -35,3 +35,6 @@ Clique em Continuar
 Vá no menu Configuração do Modulo Em Nome do Módulo, escolha Grandpanelst 
 Após selecionar o modulo, irá apresentar as opções de recursos que o plano terá. 
 Preencha os campos seguindo os padrões/explicacoes exibidas e clique em Salvar.
+
+
+#Suporte no WHMCS 7 PHP5.6+
