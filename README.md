@@ -37,4 +37,4 @@ Após selecionar o modulo, irá apresentar as opções de recursos que o plano t
 Preencha os campos seguindo os padrões/explicacoes exibidas e clique em Salvar.
 
 
-#Suporte no WHMCS 7 PHP5.6+
+#Suporte no WHMCS 7 | PHP5.6+
